@@ -52,4 +52,6 @@ From this **rock-paper-scissors image classification** project, I gained a deepe
 ## Maintainers
 [@velyncodes](https://github.com/velyncodes)
 
+Please do not steal my work. It took countless cups of coffee and many sleepless nights to create. Thank you.
+
 ©️ Zevanna Vangelyn (Velyn)
