@@ -1,4 +1,4 @@
-# Rock, Paper, and Scissors Image Classification
+# Rock, Paper, and Scissors Image Classifier
 This is a final project for Dicoding that I worked on independently. This project is a part of the requirements for graduating from the Machine Learning Developer class that I attended. The dataset used was obtained from the Dicoding platform.
 
 A link to the [data](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip) used in the project.
